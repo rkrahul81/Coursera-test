@@ -1,2 +1,2 @@
 # Coursera-test
-[module-1](/module2-solution/index.html)
+[module-2](rkrahul81.github.io/Coursera-test/module2-solution/)
